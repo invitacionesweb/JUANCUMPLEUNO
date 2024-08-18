@@ -180,7 +180,7 @@ main p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
-    color: var(--color-terciario);
+    color: var(--color-secundario);
     background-color:var(--color-secundario);
     display: flex;
     align-items: center;
